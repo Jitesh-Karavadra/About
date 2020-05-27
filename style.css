@@ -1,0 +1,140 @@
+body {
+	background-color: rgba(189,251,247,0.05);
+}
+
+h2 {
+	text-decoration: underline;
+}
+.img img {
+	width: 100%;
+	height: 750px;
+	/*margin: auto;*/
+	/*background-image: url('images/me/me.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	filter: brightness(0.8);
+
+}
+.name {
+	position: relative;
+	top: -200px;
+	left: 0;
+	width: 100%;
+	min-height: 0px;
+	background-color: white;
+	opacity: 0.5;
+}
+.name p {
+	font-weight: bold;
+}
+a {
+	color: black;
+}
+.about a {
+	color: blue;
+}
+
+
+.aboutYourself {
+	width: 100%;
+	height: 187.5px;
+	background-color: rgb(214,216,209);
+	background-color: #9495A1;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+
+.aboutYourself:hover {
+	background-image: linear-gradient(-135deg,white,transparent,transparent);
+}
+.experience {
+	width: 100%;
+	height: 187.5px;
+	background-color: #89B5CF;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+.experience:hover {
+	background-image: linear-gradient(-135deg,white,transparent,transparent);
+}
+.achievement {
+	width: 100%;
+	height: 187.5px;
+	background-color: #FDE74C;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+
+}
+.achievement:hover {
+	background-image: linear-gradient(-135deg,white,transparent,transparent);
+}
+.contact {
+	width: 100%;
+	height: 187.5px;
+	background-color: #F06449;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+
+}
+.contact:hover {
+	background-image: linear-gradient(-135deg,white,transparent,transparent);
+}
+.about p {
+	margin-top: 50px;
+	text-align: justify;
+	font-size: 20px;
+}
+.Experience h2 {
+	margin: 30px;
+}
+.Experience p {
+	margin-top: 15px; 
+	text-align: justify;
+	font-size: 18px;
+}
+
+.Achievement {
+	max-height: 1080px;
+}
+.Achievement h2 {
+	margin: 40px;
+}
+.Achievement p {
+	margin-top: 15px; 
+	text-align: justify;	
+}
+.Achievement img {
+	margin-bottom: 20px;
+}
+
+
+.Contact p {
+	text-indent: 50px;
+	margin-bottom: 30px;
+}
+.Contact h2 {
+	margin: 30px;
+}
+
+
+.social-media span {
+	letter-spacing: 25px;
+}
+
+.social-media span:hover {
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+
+
+
+
